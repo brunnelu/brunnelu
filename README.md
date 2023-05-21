@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Lucas
 
 <!--
 **brunnelu/brunnelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m Enthusiastic about Graph ML, RL and Distributed Computing
+
+📫 Social: [Linkedin](https://linkedin.com/in/brulu/), [Mail](mailto:contact@bru.lu), [Website](https://www.bru.lu)
+
+
+🔭 I’m currently testing [lowlighter/metrics](https://github.com/lowlighter/metrics), although for work I mostly use gitlab
+
+![Metrics](/metrics.plugin.isocalendar.svg)
