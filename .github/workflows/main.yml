@@ -12,11 +12,21 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.isocalendar.half-year.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_USER_TOKEN}}
-          filename: metrics.plugin.isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_USER_TOKEN}}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
