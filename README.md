@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 📫 Social: [Linkedin](https://linkedin.com/in/brulu/), [Mail](mailto:contact@bru.lu), [Website](https://www.bru.lu)
 
+⭐⭐ If you met me in Person, please star this repo: [Github](https://github.com/brunnelu/brunnelu)⭐⭐
 
 🔭 I’m currently testing [lowlighter/metrics](https://github.com/lowlighter/metrics), although for work I mostly use gitlab
 
