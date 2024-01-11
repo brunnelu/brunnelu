@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 🔭 I’m currently testing [lowlighter/metrics](https://github.com/lowlighter/metrics), although for work I mostly use gitlab
 
-![Metrics](/metrics.plugin.isocalendar.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
