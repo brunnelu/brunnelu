@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m Enthusiastic about Graph ML, RL and Distributed Computing
+🌱 I’m Enthusiastic about GenAI, LLMs, Graph ML, RL and Distributed Computing
 
 📫 Social: [Linkedin](https://linkedin.com/in/brulu/), [Mail](mailto:contact@bru.lu), [Website](https://www.bru.lu)
 
